@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Demo-app/static/css/main.4a68ab82.css",
+    "main.js": "/Demo-app/static/js/main.638c24c4.js",
+    "static/media/hero-banner.jpg": "/Demo-app/static/media/hero-banner.acda72473fddc52a764a.jpg",
+    "index.html": "/Demo-app/index.html",
+    "main.4a68ab82.css.map": "/Demo-app/static/css/main.4a68ab82.css.map",
+    "main.638c24c4.js.map": "/Demo-app/static/js/main.638c24c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a68ab82.css",
+    "static/js/main.638c24c4.js"
+  ]
+}
